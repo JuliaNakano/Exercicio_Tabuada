@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\atividades PC\\Exercicio_Tabuada\\Exercicio_Tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\pc 1\\Exercicio_Tabuada\\Exercicio_Tabuada.csproj",
       "projectName": "Exercicio_Tabuada",
-      "projectPath": "C:\\Users\\User\\Desktop\\atividades PC\\Exercicio_Tabuada\\Exercicio_Tabuada.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\pc 1\\Exercicio_Tabuada\\Exercicio_Tabuada.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\atividades PC\\Exercicio_Tabuada\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\pc 1\\Exercicio_Tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
